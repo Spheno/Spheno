@@ -19,15 +19,4 @@
  ### 🦉 Контакты:
  
 [<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" alt="telegram" width="50" />](https://t.me/Sphen0)
-[<img src="https://pngicon.ru/file/uploads/elektron-pochta.png" alt="mail" width="50" />](sphen0@yandex.ru)
-
-
- [<img src="https://pngicon.ru/file/uploads/elektron-pochta.png" alt="mail" width="50" />][1]
- 
- [mail][1]
- 
-[1]: sphen0@yandex.ru
-
-
-<a href="sphen0@yandex.ru" target="_blank"><img src="https://pngicon.ru/file/uploads/elektron-pochta.png" 
-alt="mail" width="50" /></a>
+[<img src="https://pngicon.ru/file/uploads/elektron-pochta.png" alt="mail" width="50" />](mailto:sphen0@yandex.ru)
